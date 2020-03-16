@@ -1,2 +1,3 @@
 # HelloWorld
-hello world
+
+This is my intro Hello World repository!
